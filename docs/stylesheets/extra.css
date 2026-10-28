@@ -1,0 +1,143 @@
+/* Mona Sans (SIL OFL, by GitHub), self-hosted variable font */
+@font-face {
+  font-family: "Mona Sans";
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url("../fonts/mona-sans-latin-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Mona Sans";
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url("../fonts/mona-sans-latin-ext-wght-normal.woff2") format("woff2-variations");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* GitHub palette: purple, blue and green, tuned to the slide artwork */
+:root {
+  --gh-purple: #8957e5;
+  --gh-blue: #0969da;
+  --gh-green: #1a7f37;
+  --md-text-font: "Mona Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --md-code-font: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #6e40c9;          /* white text on this is 6.4:1 */
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #0969da;
+  --md-typeset-a-color: #0550ae;           /* 7.5:1 on white */
+  --md-default-bg-color: #ffffff;
+  --md-default-fg-color: #1f2328;
+  --md-default-fg-color--light: #424a53;
+  --accent-bar: linear-gradient(90deg, #8957e5, #0969da, #1a7f37);
+}
+[data-md-color-scheme="slate"] {
+  --md-hue: 230;
+  --md-primary-fg-color: #1b1147;          /* deep navy from the slides */
+  --md-primary-bg-color: #ffffff;
+  --md-accent-fg-color: #58a6ff;
+  --md-typeset-a-color: #79c0ff;
+  --md-default-bg-color: #0b0a2a;
+  --md-default-fg-color: #e6edf3;
+  --md-default-fg-color--light: #c9d1d9;
+  --accent-bar: linear-gradient(90deg, #a371f7, #58a6ff, #3fb950);
+}
+
+body { font-size: 1.05em; }
+.md-typeset { font-size: 0.85rem; line-height: 1.75; }
+.md-typeset h1 { font-weight: 800; letter-spacing: -0.01em; color: var(--md-default-fg-color); }
+.md-typeset h2 { font-weight: 700; }
+
+/* Gradient strip under the header */
+.md-header { border-bottom: 4px solid transparent; border-image: var(--accent-bar) 1; }
+
+/* Visible keyboard focus for everyone */
+:focus-visible { outline: 3px solid var(--md-accent-fg-color); outline-offset: 2px; }
+
+/* Hero image at the top of every page */
+.md-typeset img.hero {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 0 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(40, 20, 100, 0.35);
+}
+
+/* Pull quote used for each slide's key message */
+[dir] .md-typeset blockquote {
+  border-left: 6px solid var(--gh-purple);
+  background: color-mix(in srgb, var(--gh-purple) 10%, transparent);
+  padding: 0.6rem 1.2rem;
+  border-radius: 0 8px 8px 0;
+  font-size: 1.1em;
+  font-weight: 600;
+  color: var(--md-default-fg-color);
+}
+
+/* Home page thumbnail grid */
+[dir] .md-typeset ul.thumb-grid:not([hidden]) {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr));
+  gap: 1.25rem;
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+[dir] .md-typeset ul.thumb-grid li { margin: 0; padding: 0; }
+.thumb-grid a {
+  display: block;
+  height: 100%;
+  border: 2px solid color-mix(in srgb, var(--gh-purple) 35%, transparent);
+  border-radius: 12px;
+  overflow: hidden;
+  color: var(--md-default-fg-color);
+  text-decoration: none;
+  transition: transform 0.2s, border-color 0.2s;
+}
+.thumb-grid a:hover, .thumb-grid a:focus-visible {
+  border-color: var(--gh-blue);
+  transform: translateY(-3px);
+}
+.thumb-grid img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+.thumb-grid span { display: block; padding: 0.6rem 0.8rem; font-weight: 700; font-size: 0.8rem; line-height: 1.35; }
+.thumb-grid small { display: block; font-weight: 600; color: var(--md-default-fg-color--light); }
+
+/* Jump-link pills */
+[dir] .md-typeset ul.jump-links:not([hidden]) { display: flex; flex-wrap: wrap; gap: 0.5rem; list-style: none; padding: 0; margin: 1rem 0; }
+[dir] .md-typeset ul.jump-links li { margin: 0; }
+.jump-links a {
+  display: inline-block;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  border: 2px solid var(--gh-purple);
+  font-weight: 600;
+  font-size: 0.75rem;
+}
+
+/* Back and next buttons in the footer */
+.md-footer { background: transparent; color: var(--md-default-fg-color); }
+.md-footer__inner { padding: 1.5rem 0.8rem; gap: 1rem; display: flex; flex-wrap: wrap; }
+.md-footer__link {
+  flex: 1 1 14rem;
+  border-radius: 10px;
+  padding: 0.5rem 0.4rem;
+  color: #fff;
+  background: var(--gh-purple);
+  outline-offset: 3px;
+}
+.md-footer__link--next { background: var(--gh-blue); }
+.md-footer__link:hover, .md-footer__link:focus-visible { opacity: 1; filter: brightness(1.12); }
+.md-footer__title { font-size: 0.85rem; font-weight: 700; }
+.md-footer__direction { font-size: 0.7rem; opacity: 1; }
+.md-footer-meta { background: var(--md-default-bg-color); color: var(--md-default-fg-color--light); }
+[data-md-color-scheme="slate"] .md-footer__link { background: #6e40c9; }
+[data-md-color-scheme="slate"] .md-footer__link--next { background: #1f6feb; }
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; scroll-behavior: auto !important; }
+}

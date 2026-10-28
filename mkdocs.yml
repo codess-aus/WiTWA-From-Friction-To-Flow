@@ -1,0 +1,58 @@
+site_name: From Friction to Flow
+site_description: Workshop companion for the WiTWA 2026 keynote, From Friction to Flow, the confidence to build what's next.
+site_author: Michelle Sandford
+site_url: https://codess-aus.github.io/WiTWA-From-Friction-To-Flow/
+repo_url: https://github.com/codess-aus/WiTWA-From-Friction-To-Flow
+repo_name: codess-aus/WiTWA-From-Friction-To-Flow
+
+theme:
+  name: material
+  language: en
+  font: false # Mona Sans is self-hosted in docs/stylesheets/extra.css
+  palette:
+    # Light and dark toggle, each button switches to the other scheme
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.footer   # Back and next buttons at the bottom of every page
+    - navigation.top
+    - content.code.copy
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: false
+
+nav:
+  - Home: index.md
+  - You do not have to feel ready: ready.md
+  - Friction is where ideas go quiet: friction.md
+  - Confidence is not certainty: confidence-not-certainty.md
+  - AI is the bridge: bridge.md
+  - The agentic SDLC: agentic-sdlc.md
+  - Agents are teammates: agents.md
+  - The human is the source of meaning: human.md
+  - The idea that became tangible: story.md
+  - Flow is a team sport: flow.md
+  - Build bravely with guardrails: guardrails.md
+  - Three moves before next week: three-moves.md
+  - The future is not something we wait for: future.md
+  - Resources: resources.md
