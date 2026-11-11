@@ -4,26 +4,32 @@
 
 > Confidence is a next step plus feedback.
 
-We are often told that confidence comes first, and action follows. Believe in yourself, then leap.
+From the bottom of the ocean, we have jumped all the way into orbit.
 
-But look at how confidence really grows. It is built the other way around.
+Astronauts have a name for what happens up here. They call it **the overview effect**. You look back at the planet, the borders disappear, and everything that felt enormous on the ground suddenly looks small.
 
-A draft gives us something to question. A prototype gives us something to improve. A first attempt, however wobbly, gives us something to react to. Each time we try, look at what happened and learn, we collect a little more evidence that we can do this.
+**From up here, you cannot see a single one of those doors.**
 
-## The loop
+That is what confidence really is. **Not certainty. Perspective.**
+
+## Nobody launches straight from the seabed
+
+You do not get to orbit in one brave leap. You get there in loops.
 
 1. **Try.** Take a sensible next step, however small.
 2. **See.** Look honestly at what happened.
 3. **Learn.** Notice what worked and what did not.
 4. **Try again.** Go round once more, a little wiser.
 
-Every pass through the loop builds confidence. Nothing in it requires certainty. It only asks for a willingness to take the next step and pay attention.
+A draft gives you something to question. A prototype gives you something to improve. Every loop gives you a little more perspective, until the things that stopped you start to look small.
 
-## Why this matters
+## An orbit is just falling
 
-Certainty is a moving target. The more you know, the more you notice you do not know. If you wait for certainty, you will wait forever.
+Here is a bit of physics worth keeping. An orbit is just falling: falling forward so fast that you keep missing the ground. Over and over.
 
-Confidence is different. It is not the absence of doubt. It is trusting yourself to take a sensible step, look at the result and keep going.
+So every try that did not land perfectly? **That is not you failing. That is you staying in orbit.**
 
 !!! tip "A small experiment"
     Think of something you are unsure about. Write down the smallest step that would teach you something. Then ask yourself, what would I see if I took it today?
+
+And what if that loop could spin faster than ever before?

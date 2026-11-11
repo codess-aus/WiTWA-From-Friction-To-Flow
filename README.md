@@ -4,7 +4,7 @@ Workshop companion site for the **Women in Tech WA 2026** keynote, *From Frictio
 
 Live site: https://codess-aus.github.io/WiTWA-From-Friction-To-Flow/
 
-The original talk track and speaker notes are kept in [notes/talk-track.md](notes/talk-track.md).
+The current speaker notes, which this site follows, are in [notes/From-Friction-to-Flow-Speaker-Notes.md](notes/From-Friction-to-Flow-Speaker-Notes.md). The original talk track is kept in [notes/talk-track.md](notes/talk-track.md).
 
 ## Run locally
 

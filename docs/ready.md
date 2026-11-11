@@ -4,20 +4,24 @@
 
 > You do not have to feel ready to build what's next.
 
-Picture a small brass submarine easing into deep water. The explorer inside has not memorised a map. She has no guarantee of what is down there. But she has a window, a lamp and a curious heart, and that turns out to be enough to begin.
+You would think someone afraid of masks and enclosed spaces would find a submarine even worse.
 
-Most of us wait for a feeling. We wait until we know more, until we have been given the title, until the timing is right. We tell ourselves that readiness will arrive one day, like a train, and that we will board when it does.
+But look at the difference. Same deep water. Same enclosed space. Yet the explorer inside is not trapped. **She has the biggest window in the ocean.** She can see exactly where she is going. **And she is the one steering.**
 
-It rarely comes. Readiness is not a platform you reach before the journey. It is something you gather in the water.
+She is not frozen. She is curious. She is smiling. She is close enough to see the jellyfish.
+
+Here is the thing about fear. **It shrinks when you can see out, and you are the one in control.**
 
 ## What this talk is, and is not
 
-This is not a talk about becoming a programmer in twenty five minutes. It is about what happens when the distance between an idea and a first useful version gets smaller.
+This is not a talk about becoming a programmer in twenty five minutes. You do not have to become someone else before your idea deserves a first version.
 
-We will explore GitHub AI and the agentic software development lifecycle. But underneath the technology sits a very human question:
+It is about what happens when the distance between an idea and a first useful version gets smaller. The tools we have now, GitHub Copilot and AI agents, **are not asking you to hand over control.** Used well, they are the submarine: a window you can see through, and controls you keep your hands on.
 
-**How do we find the confidence to build what is next?**
+**You do not need to stop being afraid. You need to be the one steering.**
 
 ## Try this
 
-Take a moment and think of one thing you have been waiting to feel ready for. Hold it lightly. By the end of these chapters, you will have a small, practical way to begin.
+Think of one thing you have been waiting to feel ready for. Hold it lightly. By the end of these chapters, you will have a small, practical way to begin.
+
+And if talent is not what is stopping us, what is? Turn the page.

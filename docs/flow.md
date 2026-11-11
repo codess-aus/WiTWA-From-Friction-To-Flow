@@ -4,11 +4,15 @@
 
 > Every role can improve the build.
 
-When we picture flow, we often picture one person, headphones on, deep in the zone. But the flow that builds meaningful things is a shared one. It is a team making the next useful handoff easier.
+Twelve people have walked on the moon. Around **four hundred thousand people** worked on the Apollo program that got the first ones there.
 
-Look at the line of roles in the picture. Each one is connected to the next. Nobody is the whole chain.
+Engineers, seamstresses, mathematicians, programmers, technicians. **Margaret Hamilton**, leading the team that wrote the flight software. **Katherine Johnson**, whose maths helped get them there and back.
+
+**One small step. Four hundred thousand pairs of hands.**
 
 ## Eight ways to contribute
+
+Look at the roles in the picture. "Developer" is just one box out of eight.
 
 - **Problem framer.** Names what is really going wrong.
 - **Designer.** Shapes how it feels to use.
@@ -19,10 +23,18 @@ Look at the line of roles in the picture. Each one is connected to the next. Nob
 - **Communicator.** Makes it understandable and welcoming.
 - **Tester.** Finds what the rest of us missed.
 
-## You do not have to write code
+Can you see yourself somewhere here? Now, do you write code? If not, you are still on this list. **Every one of those roles improves the build.**
 
-You can define the problem. You can provide real examples. You can describe what good looks like. You can test the experience, check the language, and notice who has been left out.
+## You do not have to write code to contribute
 
-Or you can ask the one question that stops a team from building the wrong thing. That question can save weeks, and it is often asked by the person who felt least sure about speaking up.
+You can frame the problem. Bring the real examples. Describe what good looks like. Check the language. Notice who has been left out. Ask the one question that stops a team building the wrong thing.
 
-So speak up. Your role is part of the build.
+## Flow lives in the handoffs
+
+Look at the lines between the boxes. **That is where flow actually lives. Not in the boxes. In the handoffs.**
+
+Flow is not one person moving faster on their own. It is a team making the next handoff easier.
+
+And that is exactly where AI helps. **It does not replace the boxes. It makes the lines shorter.**
+
+When a whole team can move this fast, we need to talk about how we move safely.
