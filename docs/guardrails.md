@@ -4,25 +4,33 @@
 
 > Speed without trust is not flow.
 
-A rocket on a launch pad is a wonderful thing to see. Notice what it stands in: a structure of towers, supports and checks. Nobody thinks those make the rocket less bold. They are what let it fly, and let people trust the flight.
+What Michelle actually feared about diving was never the water. **It was the loss of control.**
 
-Responsible building is not the opposite of bold building. It is what allows bold building to last.
+And here is what she learned. **Divers do not go deep because they are fearless. They go deep because they trust the system that brings them back.** Check your gear. Never dive alone. Come up slowly. That is what gives you control back.
+
+Look at the rocket. Nobody thinks the launch tower slows it down. **The tower is the reason it gets to launch at all.**
+
+Responsible building is not the opposite of bold building. It is what lets bold building last.
+
+Why do cars have brakes? **So they can go fast.**
 
 ## Four guardrails
 
-1. **Start small.** Use reversible experiments. If it does not work, you have learned something, not lost everything.
-2. **Keep human approval.** Especially where the impact is high. A person decides, and a person is accountable.
-3. **Protect data.** Keep sensitive information safe, and be clear about what you share with tools.
-4. **Make quality visible.** Test for security, privacy, accessibility, bias and reliability, and show your results.
+1. **Start small.** Use reversible experiments. Test in the shallow end first.
+2. **Keep human approval,** especially where the impact is high. Before every launch there is a go or no-go call, and every controller, one at a time, has to say "Go." **Agents can do the work. A human still says "Go."**
+3. **Protect data.** Behind every record is a real person who trusted you with it.
+4. **Make quality visible.** Test for security, accessibility, bias and reliability. Remember the crash-test dummy, and ask every time: **good enough for whom?**
 
 ## The better question
 
-The question is not only *can AI do this?*
+The question was never only *can AI do this?*
 
 It is also:
 
 - *Should it?*
 - *Under what conditions?*
-- *Who reviews the result?*
+- *And who reviews the result?*
 
-Teams that ask these questions early move faster in the long run, because they spend less time repairing broken trust. That is what flow looks like when it is built to last.
+> Speed without trust is not flow. It is just a faster way to crash.
+
+So, what can you actually do on Monday?

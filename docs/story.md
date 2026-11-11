@@ -4,31 +4,37 @@
 
 > The breakthrough was not the finished product. It was having something to react to.
 
-Let me tell you about a community organiser. She has been in the industry for years, and she sees something others miss: people new to tech do not struggle to find mentors because mentors are scarce. They struggle because nobody has shown them how to begin the conversation.
+Remember the light stuck behind those rusty doors? **This is what it looks like when it gets out.**
 
-She has the insight. She has the relationships. What she does not have is a product team, or weeks to build something.
+Picture a community organiser. She wants to help people who are new to tech find a mentor. She has the insight. She has the relationships. What she does not have is a product team, or a spare six weeks.
+
+So the idea sits behind the doors. Time. Access. Process.
 
 !!! note "A story to make your own"
-    This is an illustrative story. In the live keynote, it is replaced with a true story from real work, community or customer experience.
+    This is an illustrative story. In the live keynote, it can be replaced with a true story from real work, community or customer experience.
 
 ## The first conversation
 
-She starts simply. *Help me map the journey from wanting a mentor to having a useful first conversation.*
+One evening, she opens a conversation with AI and types one sentence. *Help me map the journey from wanting a mentor to having a useful first conversation.*
 
-With AI as a draft partner, she gets a journey map, a list of questions and a rough first version within the hour. It is not perfect. It is not even finished. But for the first time, her idea exists outside her own head.
+Within the hour she has something she did not have before: a journey map, a set of questions and a rough first version. Not finished. Not perfect. **A wireframe on the cliff.**
 
-## Then real people react
+## Then she does the bravest thing
 
-She shows it to the people it is for. Their reactions are gold.
+She shows it to real people. And real people react.
 
-- One says the language feels intimidating.
-- Another needs a mobile friendly option.
-- Someone else points out the idea assumes people already have a professional network.
+- *"The language feels intimidating."*
+- *"I need a mobile-friendly option."*
+- *"Not everyone has a network yet."*
 
-Each comment is a door she could not see from the inside.
+That last one stops her, because her whole idea quietly assumed people already had one. **That is the crash-test dummy, all over again.** And it took a human in the room to see it.
 
 ## What changed
 
-The first version did not prove the idea was finished. It made learning possible. It turned private confidence into **shared progress**.
+Her first version did not prove the idea was finished. **It made learning possible.**
 
-That is the whole point of this talk. You do not need the answer. You need something real enough for someone to respond to.
+Nobody can give you feedback on an idea that lives in your head. **An idea in your head stays safe. An idea on the wall gets better.**
+
+That is what a first draft really does. It turns private confidence into **shared progress**.
+
+And notice who made it better. Not the AI. **The people around the wall.** Which tells you something important about flow.

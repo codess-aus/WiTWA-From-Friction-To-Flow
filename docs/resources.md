@@ -7,6 +7,6 @@ Ready to take your first step? These free learning resources are a good place to
 - [Awesome Copilot Learning Hub](https://awesome-copilot.github.com/learning-hub/)
 - [GitHub Copilot Fundamentals learning path](https://learn.microsoft.com/en-us/training/paths/copilot/)
 
-Remember the three moves: name the friction, invite a partner, make one artefact.
+Remember the three moves: name the friction, invite a friend, make one artefact. Never dive alone.
 
   
