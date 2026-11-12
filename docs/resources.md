@@ -4,10 +4,10 @@
 
 <!-- Privacy-enhanced YouTube embed: no tracking cookies until the viewer presses play -->
 <div class="video-embed">
-  <iframe src="https://www.youtube-nocookie.com/embed/AD2LgsmKOYk" title="From Friction to Flow keynote" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/pEkuQorfkQY" title="From Friction to Flow keynote" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Prefer YouTube? [Watch the keynote on YouTube](https://youtu.be/AD2LgsmKOYk).
+Prefer YouTube? [Watch the keynote on YouTube](https://youtu.be/pEkuQorfkQY).
 
 ## Keep learning
 
