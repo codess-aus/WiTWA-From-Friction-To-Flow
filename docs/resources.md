@@ -7,7 +7,7 @@
   <iframe src="https://www.youtube-nocookie.com/embed/pEkuQorfkQY" title="From Friction to Flow keynote" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Prefer YouTube? [Watch the keynote on YouTube](https://youtu.be/pEkuQorfkQY).
+Prefer YouTube? [Watch the keynote on YouTube](https://youtu.be/zatilP4V8-c).
 
 ## Keep learning
 
